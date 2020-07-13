@@ -1,0 +1,1 @@
+This repository contains Z-Tree computer code, expeimental data and supplementary materials for the project Stress Tests and Information Disclosure: An Experimental Analysi by Caleb Cox, Douglas Davis, Oleg Koenok and John Lightle, all from Virginia Commonwealth University.
